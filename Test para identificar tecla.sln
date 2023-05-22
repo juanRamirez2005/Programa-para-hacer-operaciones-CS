@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test para identificar tecla", "Test para identificar tecla.csproj", "{263D6BA0-B167-4F69-A7FB-757EB7028EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{263D6BA0-B167-4F69-A7FB-757EB7028EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263D6BA0-B167-4F69-A7FB-757EB7028EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263D6BA0-B167-4F69-A7FB-757EB7028EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263D6BA0-B167-4F69-A7FB-757EB7028EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3209C8C-C06C-4A47-95D5-113353F6B9DF}
+	EndGlobalSection
+EndGlobal
